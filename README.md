@@ -18,7 +18,7 @@ The project is based on the following research paper:
 Currently, the project is in the **Proposal Stage**. 
 * [x] Research paper selection and analysis.
 * [x] Project objectives definition.
-* [ ] Data acquisition (Heart Disease Dataset).
+* [x] Data acquisition (Heart Disease Dataset).
 * [ ] Data preprocessing and feature engineering.
 * [ ] Model training and evaluation (Scikit-Learn).
 
