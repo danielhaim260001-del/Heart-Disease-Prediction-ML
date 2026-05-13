@@ -5,7 +5,7 @@ This project involves a comparative analysis of various machine learning classif
 
 ## Team Members
 * **Daniel Haim** (ID: 315573998)
-* **Ofri Ezer**
+* **Ofri Azar** (ID: 208581561)
 
 ## Reference Article
 The project is based on the following research paper:
